@@ -22,7 +22,7 @@ projeto-aws-infraestrutura/
 
 As capturas de tela de todas as configurações realizadas estão disponíveis na pasta:
 
-projeto-aws-infraestrutura/midias-do-projeto/
+projeto-aws-infraestrutura/midias
 
 ## Principais Aprendizados
 
